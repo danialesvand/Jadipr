@@ -1,3 +1,2 @@
-Remote repository demo project
-Initial version
-This line was added remotely
+GitHub Pull Request Demo
+Version 1.0
